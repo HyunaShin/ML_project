@@ -1,2 +1,1 @@
-# ML_project
-# ML_project
+## 본 레퍼지토리는 데이터과학입문 수업의 일환으로 캐글사이트의 Predict Future Sales를 팀별로 해결하기 위해 만든  레퍼지토리입니다.
